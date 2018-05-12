@@ -1,6 +1,6 @@
-#Color Guessing Game
+# Color Guessing Game
 
-##What is the Color Guessing Game?
+## What is the Color Guessing Game?
 
 This is a simple game where you need to choose the correct colored square(6 squares on Hard/3 squares on easy) based on a random RGB value.
 If you fail to choose the correct squares, they will fade out until there is only the correct square left.
